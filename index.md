@@ -10,10 +10,10 @@ Yuankang has programming experiences in C/C++, MATLAB ,Python, R and is a Level 
 
 ### Quantitative Finance Files Repository
 
-- For all files, plick click [here](https://github.com/RickYuankangHung/Quantitative-Finance)
+1. For all files, plick click [here](https://github.com/RickYuankangHung/Quantitative-Finance)
 
 
-- _CIR model estimation for spot-futures spread in China and the US market_. HTML file can be downloaded [here](https://github.com/RickYuankangHung/Quantitative-Finance/blob/master/531FinalProjectVersion2.1.html).
+2. _CIR model estimation for spot-futures spread in China and the US market_. HTML file can be downloaded [here](https://github.com/RickYuankangHung/Quantitative-Finance/blob/master/531FinalProjectVersion2.1.html).
 
 - In this project, we use a variation of CIR model which is a Markov process and the IF2 algorithm to find an appropriate model for spot-futures spread. The POMP simulations are beneficial for exploration of the proper form of the model and the FLUX is conducive to the estimation of parameters. 
 
