@@ -12,7 +12,7 @@ For Yuankang's quantitative finance thesis, project reports, source codes, pleas
 
 [For all files, plick click here.](https://github.com/RickYuankangHung/Quantitative-Finance)
 
-![Image]('POMPCSI300.png')
+![Image](POMPCSI300.png)
 
 
 ```markdown
