@@ -1,4 +1,4 @@
-## Welcome to Yuankang Xiong GitHub Pages
+# Welcome to Yuankang Xiong GitHub Pages
 
 Yuankang Xiong is a second year student in the Quantitative Finance and Risk Management Master's program. He earned a Bachelor's Degree in Thermal and Power Engineering and a Bachelor's Degree in Finance from Huazhong University of Science and Technology. He also holds a Master's Degree in Financial Economics from Singapore Management University.  
 
@@ -8,12 +8,12 @@ His profile website can be found [here](https://lsa.umich.edu/math/people/quant/
 
 For Yuankang's quantitative finance thesis, project reports, source codes, please click the Quantitative Finance Files Repository on the left.  
 
-### Quantitative Finance Files Repository
+# Quantitative Finance Files Repository
 
-#### [For all files, plick click here.](https://github.com/RickYuankangHung/Quantitative-Finance)
+## [For all files, plick click here.](https://github.com/RickYuankangHung/Quantitative-Finance)
 
 
-#### CIR model estimation for spot-futures spread in China and the US market.[HTML can be downloaded here](https://github.com/RickYuankangHung/Quantitative-Finance/blob/master/531FinalProjectVersion2.1.html).
+## CIR model estimation for spot-futures spread in China and the US market.[HTML can be downloaded here](https://github.com/RickYuankangHung/Quantitative-Finance/blob/master/531FinalProjectVersion2.1.html).
 
 In this project, we use a variation of CIR model which is a Markov process and the IF2 algorithm to find an appropriate model for spot-futures spread. The POMP simulations are beneficial for exploration of the proper form of the model and the FLUX is conducive to the estimation of parameters. 
 
