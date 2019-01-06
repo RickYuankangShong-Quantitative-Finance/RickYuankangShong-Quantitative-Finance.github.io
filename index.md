@@ -10,7 +10,7 @@ Yuankang has programming experiences in C/C++, MATLAB ,Python, R and is a Level 
 
 ### Quantitative Finance Files Repository
 
-1. For browsing all files, plick click [**here**](https://github.com/RickYuankangHung/Quantitative-Finance)
+1. For browsing all files, please click [**here**](https://github.com/RickYuankangHung/Quantitative-Finance)
 
 
 2. _CIR model estimation for spot-futures spread in China and the US market_. HTML file can be downloaded [here](https://github.com/RickYuankangHung/Quantitative-Finance/blob/master/531FinalProjectVersion2.1.html).
