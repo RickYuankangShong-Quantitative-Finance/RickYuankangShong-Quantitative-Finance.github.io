@@ -10,7 +10,7 @@ Yuankang has programming experiences in C/C++, MATLAB ,Python, R and is a Level 
 
 ### Quantitative Finance Files Repository
 
-1. For browsing all files, please click [**here**](https://github.com/RickYuankangHung/Quantitative-Finance)
+1. For browsing all files, please click [here](https://github.com/RickYuankangHung/Quantitative-Finance)
 
 
 2. _CIR model estimation for spot-futures spread in China and the US market_. HTML file can be downloaded [here](https://github.com/RickYuankangHung/Quantitative-Finance/blob/master/531FinalProjectVersion2.1.html). Please download the HTML and browse.
@@ -21,6 +21,7 @@ Yuankang has programming experiences in C/C++, MATLAB ,Python, R and is a Level 
 - For CSI300 spreads data, given initial values and starting values, the sigma, s and a converges well. Sigma should be around 35.3932. S should be around 6.305309 while a is 0.09316657. Parameter b does not converge well which is acceptable because the stationary mean model does not seem to fit the data although we know that in the long run the spread process should have mean 0.
 
 ![Image](POMPSpreadmodel.gif)
+
 
 3. _Do Returns Have Trends, Long Memory, Autocorrelation and Cycles? : Evidence from Markets of Different Financial Products and Regions_. HTML file can be downloaded [here](https://github.com/RickYuankangHung/Quantitative-Finance/blob/master/FractionalBrownianMotion.html). Please download the HTML and browse.
 
