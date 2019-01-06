@@ -31,6 +31,8 @@ Yuankang has programming experiences in C/C++, MATLAB ,Python, R and is a Level 
 
 ![Image](HurstFormula.png)
 
+The formulas are given above and the estimate time series on the US and China market are provided below.
+
 ![Image](Hurst.gif)
 
 ### Machine Learning Files Repository
