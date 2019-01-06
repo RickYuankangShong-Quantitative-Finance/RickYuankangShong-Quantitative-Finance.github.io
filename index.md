@@ -1,12 +1,12 @@
 ## Welcome to Yuankang Xiong GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/RickYuankangHung/RickYuankangHung.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Yuankang Xiong is a second year student in the Quantitative Finance and Risk Management Master¡¯s program. He earned a Bachelor¡¯s Degree in Thermal and Power Engineering and a Bachelor¡¯s Degree in Finance from Huazhong University of Science and Technology. He also holds a Master's Degree in Financial Economics from Singapore Management University.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Yuankang has programming experiences in C/C++, MATLAB ,Python, R and is a Level II CFA Candidate. He is interested in statistics, econometrics, forecasting and risk management.
 
-### Markdown
+### Quantitative Finance Files Repository
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
