@@ -13,7 +13,8 @@ Yuankang has programming experiences in C/C++, MATLAB ,Python, R and is a Level 
 1. For browsing all files, please click [**here**](https://github.com/RickYuankangHung/Quantitative-Finance)
 
 
-2. _CIR model estimation for spot-futures spread in China and the US market_. HTML file can be downloaded [here](https://github.com/RickYuankangHung/Quantitative-Finance/blob/master/531FinalProjectVersion2.1.html).
+2. _CIR model estimation for spot-futures spread in China and the US market_. HTML file can be downloaded [here](https://github.com/RickYuankangHung/Quantitative-Finance/blob/master/531FinalProjectVersion2.1.html). Please download the HTML and browse.
+
 
 - In this project, we use a variation of CIR model which is a Markov process and the IF2 algorithm to find an appropriate model for spot-futures spread. The POMP simulations are beneficial for exploration of the proper form of the model and the FLUX is conducive to the estimation of parameters. 
 
@@ -21,25 +22,14 @@ Yuankang has programming experiences in C/C++, MATLAB ,Python, R and is a Level 
 
 ![Image](POMPSpreadmodel.gif)
 
+3. _Do Returns Have Trends, Long Memory, Autocorrelation and Cycles? : Evidence from Markets of Different Financial Products and Regions_. HTML file can be downloaded [here](https://github.com/RickYuankangHung/Quantitative-Finance/blob/master/FractionalBrownianMotion.html). Please download the HTML and browse.
 
-```markdown
+- In this study, we explore several kinds of financial times series by adopting various time series techniques covered in class such as SARIMA, parameter estimation, spectral analysis, and extra techniques such as estimating Hurst parameter to give some statistical, mathematical and financial explanations for empirical phenomena.
 
+- According to Hurst estimates, S&P500 index daily log returns are observed to have severe positive autocorrelation during financial crises. During other time period after Jan 3rd, 2000, the random walk model seems to fit the accumulated log returns quite well, which means the daily log returns are not linearly correlated.
 
-# Quantitative Finance Files
-## Machine Learning Files
-### Resumes
+![Image](HurstFormula.gif)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](https://github.com/RickYuankangHung/Quantitative-Finance) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Image](Hurst.gif)
 
 ### Machine Learning Files Repository
