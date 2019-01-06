@@ -10,7 +10,14 @@ For Yuankang's quantitative finance thesis, project reports, source codes, pleas
 
 ### Quantitative Finance Files Repository
 
-[For all files, plick click here.](https://github.com/RickYuankangHung/Quantitative-Finance)
+#### [For all files, plick click here.](https://github.com/RickYuankangHung/Quantitative-Finance)
+
+
+#### CIR model estimation for spot-futures spread in China and the US market.[HTML can be downloaded here](https://github.com/RickYuankangHung/Quantitative-Finance/blob/master/531FinalProjectVersion2.1.html).
+
+In this project, we use a variation of CIR model which is a Markov process and the IF2 algorithm to find an appropriate model for spot-futures spread. The POMP simulations are beneficial for exploration of the proper form of the model and the FLUX is conducive to the estimation of parameters. 
+
+For CSI300 spreads data, given initial values and starting values, the sigma, s and a converges well. Sigma should be around 35.3932. S should be around 6.305309 while a is 0.09316657. Parameter b does not converge well which is acceptable because the stationary mean model does not seem to fit the data although we know that in the long run the spread process should have mean 0.
 
 ![Image](POMPCSI300.png)
 
