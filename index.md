@@ -29,7 +29,7 @@ Yuankang has programming experiences in C/C++, MATLAB ,Python, R and is a Level 
 
 - According to Hurst estimates, S&P500 index daily log returns are observed to have severe positive autocorrelation during financial crises. During other time period after Jan 3rd, 2000, the random walk model seems to fit the accumulated log returns quite well, which means the daily log returns are not linearly correlated.
 
-![Image](HurstFormula.gif)
+![Image](HurstFormula.png)
 
 ![Image](Hurst.gif)
 
