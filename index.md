@@ -4,14 +4,16 @@ Yuankang Xiong is a second year student in the Quantitative Finance and Risk Man
 
 Yuankang has programming experiences in C/C++, MATLAB ,Python, R and is a Level II CFA Candidate. He is interested in statistics, econometrics, forecasting and risk management.
 
-His profile can be found [here](https://lsa.umich.edu/math/people/quant/2017/ricxiong.html).
+His profile website can be found [here](https://lsa.umich.edu/math/people/quant/2017/ricxiong.html).This page was updated at the beginning of 2019.
+
+For Yuankang's quantitative finance thesis, project reports, source codes, please click the Quantitative Finance Files Repository on the left.  
 
 ### Quantitative Finance Files Repository
 
 
 
 ```markdown
-Syntax highlighted code block
+
 
 # Quantitative Finance Files
 ## Machine Learning Files
@@ -25,7 +27,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://github.com/RickYuankangHung/Quantitative-Finance) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
