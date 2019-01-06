@@ -1,6 +1,6 @@
 ## Welcome to Yuankang Xiong GitHub Pages
 
-Yuankang Xiong is a second year student in the Quantitative Finance and Risk Management Master¡¯s program. He earned a Bachelor's Degree in Thermal and Power Engineering and a Bachelor's Degree in Finance from Huazhong University of Science and Technology. He also holds a Master's Degree in Financial Economics from Singapore Management University.  
+Yuankang Xiong is a second year student in the Quantitative Finance and Risk Management Master's program. He earned a Bachelor's Degree in Thermal and Power Engineering and a Bachelor's Degree in Finance from Huazhong University of Science and Technology. He also holds a Master's Degree in Financial Economics from Singapore Management University.  
 
 Yuankang has programming experiences in C/C++, MATLAB ,Python, R and is a Level II CFA Candidate. He is interested in statistics, econometrics, forecasting and risk management.
 
