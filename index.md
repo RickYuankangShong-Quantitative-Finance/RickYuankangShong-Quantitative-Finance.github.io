@@ -4,16 +4,17 @@ Yuankang Xiong is a second year student in the Quantitative Finance and Risk Man
 
 Yuankang has programming experiences in C/C++, MATLAB ,Python, R and is a Level II CFA Candidate. He is interested in statistics, econometrics, forecasting and risk management.
 
-- His profile website can be found [here](https://lsa.umich.edu/math/people/quant/2017/ricxiong.html).This page was updated at the beginning of 2019.
+- His profile website can be found [here](https://lsa.umich.edu/math/people/quant/2017/ricxiong.html). This page was updated at the beginning of 2019.
 
-- For Yuankang's quantitative finance thesis, project reports, source codes, please click the Quantitative Finance Files Repository on the left.  
+- For Yuankang's quantitative finance thesis, project reports, source codes, please click the link below.  
 
 ### Quantitative Finance Files Repository
 
 1. For browsing all files, please click [here](https://github.com/RickYuankangHung/Quantitative-Finance)
 
+### Statistical Inference of Financial Time Series Examples
 
-2. _CIR model estimation for spot-futures spread in China and the US market_. HTML file can be downloaded [here](https://github.com/RickYuankangHung/Quantitative-Finance/blob/master/531FinalProjectVersion2.1.html). Please download the HTML and browse.
+1. _CIR model estimation for spot-futures spread in China and the US market_. HTML file can be downloaded [here](https://github.com/RickYuankangHung/Quantitative-Finance/blob/master/531FinalProjectVersion2.1.html). Please download the HTML and browse.
 
 
 - In this project, we use a variation of CIR model which is a Markov process and the IF2 algorithm to find an appropriate model for spot-futures spread. The POMP simulations are beneficial for exploration of the proper form of the model and the FLUX is conducive to the estimation of parameters. 
@@ -23,7 +24,7 @@ Yuankang has programming experiences in C/C++, MATLAB ,Python, R and is a Level 
 ![Image](POMPSpreadmodel.gif)
 
 
-3. _Do Returns Have Trends, Long Memory, Autocorrelation and Cycles? : Evidence from Markets of Different Financial Products and Regions_. HTML file can be downloaded [here](https://github.com/RickYuankangHung/Quantitative-Finance/blob/master/FractionalBrownianMotion.html). Please download the HTML and browse.
+2. _Do Returns Have Trends, Long Memory, Autocorrelation and Cycles? : Evidence from Markets of Different Financial Products and Regions_. HTML file can be downloaded [here](https://github.com/RickYuankangHung/Quantitative-Finance/blob/master/FractionalBrownianMotion.html). Please download the HTML and browse.
 
 - In this study, we explore several kinds of financial times series by adopting various time series techniques covered in class such as SARIMA, parameter estimation, spectral analysis, and extra techniques such as estimating Hurst parameter to give some statistical, mathematical and financial explanations for empirical phenomena.
 
@@ -35,4 +36,14 @@ The formulas are given above and the estimate time series on the US and China ma
 
 ![Image](Hurst.gif)
 
-### Machine Learning Files Repository
+### Machine Learning Application in Finance Examples
+
+1. _Effect of Investor Attention on Stock Return_. PDF file can be downloaded [here](https://github.com/RickYuankangShong-Quantitative-Finance/Quantitative-Finance/blob/master/545Project.pdf). You may browse the PDF in GitHub directly.
+
+- In this report, we analyzed the relationship between investor attention and stock return in China A-share market. We firstly divided stock returns into four classes by their quantile and changed our problem into a classfication problem. And then, we used extreme gradient boosting tree (XGBoost) model to predict stock returns. By adding investor attention factors, we improved roughly 7% model performance in stock return prediction compared with using only classic financial factors. It shows that investor attention factors act as a useful feature on explaining stock returns.
+
+![Image](clickFavoriteDecissionTree.jpeg)
+
+![Image](FeatureBarplot.png)
+
+![Image](heatmap_hasclick.png)
