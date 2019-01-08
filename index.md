@@ -47,3 +47,7 @@ The formulas are given above and the estimate time series on the US and China ma
 ![Image](FeatureBarplot.png)
 
 ![Image](heatmap_hasclick.png)
+
+### Interesting Probability Examples
+
+![Image](recordValues.png)
