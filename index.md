@@ -6,7 +6,7 @@ He as the team captain won the Eighth International Association of Quantitative 
 
 Yuankang has programming experiences in C/C++, MATLAB ,Python, R and is a Level III CFA Candidate. He is interested in statistics, econometrics, forecasting and risk management.
 
-- His profile website can be found [here](https://lsa.umich.edu/math/people/quant/2017/ricxiong.html). This page was updated at the middle of 2019.
+- His profile website can be found [here](https://lsa.umich.edu/math/people/quant/2017/ricxiong.html). This page was updated in the middle of 2019.
 
 - For Yuankang's quantitative finance thesis, project reports, source codes, please click the link below.  
 
@@ -49,6 +49,16 @@ The formulas are given above and the estimate time series on the US and China ma
 ![Image](FeatureBarplot.png)
 
 ![Image](heatmap_hasclick.png)
+
+### Markov Chain Monte Carlo Parameter Estimating Examples
+
+1. _Stock Trading Strategy based on Dynamic Bayesian Network_. PDF file can be downloaded [here](https://github.com/RickYuankangShong-Quantitative-Finance/Quantitative-Finance/blob/master/Bayesian_Modeling.pdf). You may browse the PDF in GitHub directly.
+
+- The pricing earnings (PE) ratio is a widely used index for constructing investment strategy in a security market. There exist hiddenpatterns in PE ratio. In this project, we implement an advanced dynamic Bayesian network (DBN) methodology for value investmentthrough fundamental PE estimations. Two algorithms are adopted to estimate the parameters in RStan. Diagnostics and posterior predictivedistribution show the validity of the model. The estimated PE ratio from our model can be used either as a information support for an expertto make investment decisions, or as an automatic trading system illustrated in experiments. Different from existing works in literature, theeconomic interpretation of our DBN model is well-justified by behavioral finance evidences of volatility.
+
+![Image](DynamicBayesianNetwork.png)
+
+![Image](MCMCConvergence.png)
 
 ### Interesting Probability Examples
 
