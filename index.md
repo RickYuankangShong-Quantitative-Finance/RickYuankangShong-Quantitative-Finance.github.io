@@ -1,6 +1,6 @@
 ### Welcome to Yuankang Xiong GitHub Pages ^_^
 
-Yuankang Xiong is a graduate from the Quantitative Finance and Risk Management Master's program. He earned a Bachelor's Degree in Thermal and Power Engineering and a Bachelor's Degree in Finance from Huazhong University of Science and Technology. He also holds a Master's Degree in Financial Economics from Singapore Management University.  
+Yuankang Xiong is a graduate from the Quantitative Finance and Risk Management Master's program at the University of Michigan. He earned a Bachelor's Degree in Thermal and Power Engineering and a Bachelor's Degree in Finance from Huazhong University of Science and Technology. He also holds a Master's Degree in Financial Economics from Singapore Management University.  
 
 He as the team captain won the Eighth International Association of Quantitative Finance (IAQF) Annual Academic Affiliate Membership Student Competition. The link can be found [here](https://www.iaqf.org/news/news_detail/58).
 
